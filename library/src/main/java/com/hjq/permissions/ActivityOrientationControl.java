@@ -3,10 +3,13 @@ package com.hjq.permissions;
 import android.app.Activity;
 import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
-import android.support.annotation.NonNull;
+
 import android.view.Display;
 import android.view.Surface;
 import android.view.WindowManager;
+
+import androidx.annotation.NonNull;
+
 import java.util.HashMap;
 import java.util.Map;
 
